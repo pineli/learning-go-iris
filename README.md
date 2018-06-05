@@ -9,9 +9,9 @@ A test application for to learn the Iris web framework and Go language.
 
 ## ToDo
 
-[ ] - Hello World page
-[ ] - Routes
-[ ] - View Template
-[ ] - DB CRUD
+- [ ] - Hello World page
+- [ ] - Routes
+- [ ] - View Template
+- [ ] - DB CRUD
 
 ## That's All Folks! :-)
