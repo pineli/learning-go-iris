@@ -12,6 +12,6 @@ A test application for to learn the Iris web framework and Go language.
 - [X] - Hello World page
 - [X] - Routes
 - [X] - View Template
-- [ ] - DB CRUD
+- [ ] - DB
 
 ## That's All Folks! :-)
